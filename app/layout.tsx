@@ -1,5 +1,5 @@
-import "@/app/_ui/global.css";
-import { inter } from "@/app/_ui/fonts";
+import "@/app/ui/global.css";
+import { inter } from "@/app/ui/fonts";
 // import { ErrorBoundary } from "next/dist/client/components/error-boundary";
 // import { Suspense } from "react";
 // import { NotFound } from "./not-found";
